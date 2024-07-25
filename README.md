@@ -100,11 +100,11 @@ This will start the FastAPI server on `http://127.0.0.1:8000`.
 
 ## Database
 
-The database is set up using SQLAlchemy. The database URL should be configured in the `config.py` file and '.env' (You need to create this one). Here's a quick overview of the database setup:
+The database is set up using SQLAlchemy. The database URL should be configured in the `config.py` file and `.env` (You need to create this one). Here's a quick overview of the database setup:
 
 1. **Database Configuration:**
     - Configure your database URL in the `config.py` file.
-    - Configure your database URL in the '.env' file.
+    - Configure your database URL in the `.env` file.
 
 2. **Models:**
     - The database model is already defined in the `models.py` file.
